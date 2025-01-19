@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jayanth-sanku/Phidata-Video-AI-Summarizer-Agent/
+   git clone https://github.com/Jayanth-sanku/Phidata-Video-AI-Summarizer-Agent.git
    ```
 2. Install the required dependencies:
    ```bash
